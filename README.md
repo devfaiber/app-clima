@@ -10,5 +10,13 @@ npm install
 `
 node app -d "New York"
 `
-***-d: ***
+
+***-d:***
 significa direccion
+
+### Apis
+usamos 2 apis
+
+Google Maps
+
+Open Weather Map
