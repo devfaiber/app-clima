@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/faiber332/app-clima#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "colors": "^1.3.3",
     "yargs": "^12.0.5"
   }
